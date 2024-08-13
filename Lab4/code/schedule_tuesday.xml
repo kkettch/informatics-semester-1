@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wednesday>
+  <lesson1>
+    <name>Информатика(ЛАБ)</name>
+    <start_time>8:20</start_time>
+    <end_time>9:50</end_time>
+    <place>Кронверкский пр., д.49, лит.А</place>
+    <teachers_name>Белозубов Александр Владимирович</teachers_name>
+    <classroom>305</classroom>
+    <format>Очно-Дистанционный</format>
+    <odd_week>true</odd_week>
+  </lesson1>
+  <lesson2>
+    <name>Информатика(ЛАБ)</name>
+    <start_time>10:00</start_time>
+    <end_time>11:30</end_time>
+    <place>Кронверкский пр., д.49, лит.А</place>
+    <teachers_name>Белозубов Александр Владимирович</teachers_name>
+    <classroom>305</classroom>
+    <format>Очно-Дистанционный</format>
+    <odd_week>tru</odd_week>
+  </lesson2>
+</wednesday>

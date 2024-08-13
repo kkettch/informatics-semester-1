@@ -1,0 +1,19 @@
+wednesday:
+- lesson1:
+    name: 'Информатика(ЛАБ)'
+    start_time: '8:20'
+    end_time: '9:50'
+    place: 'Кронверкский пр., д.49, лит.А'
+    teachers_name: 'Белозубов Александр Владимирович'
+    classroom: '305'
+    format: 'Очно-Дистанционный'
+    odd_week: 'true'
+- lesson2:
+    name: 'Информатика(ЛАБ)'
+    start_time: '10:00'
+    end_time: '11:30'
+    place: 'Кронверкский пр., д.49, лит.А'
+    teachers_name: 'Белозубов Александр Владимирович'
+    classroom: '305'
+    format: 'Очно-Дистанционный'
+    odd_week: 'true'
